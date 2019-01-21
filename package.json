@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Alexis Tyler <xo@wvvw.me> (https://wvvw.me/)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+     "test": "exit"
+  }
 }
