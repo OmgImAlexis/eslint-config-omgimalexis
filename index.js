@@ -4,6 +4,10 @@ const config = {
       'error',
       'always'
     ],
+    '@typescript-eslint/space-before-function-paren': [
+      'error',
+      'never'
+    ],
     'space-before-function-paren': [
       'error',
       'never'
